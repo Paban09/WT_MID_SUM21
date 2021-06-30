@@ -19,7 +19,7 @@
 
 <html>
 	<head>
-		<title> Product </title>
+		<title>Home </title>
 	</head>
 	<body>
 	
@@ -58,10 +58,19 @@
 			</tr>
 			
 			
-				<tr>
+			<tr>
+				<td>
+				<button><a target="_blank" href="owner_3.php" >Owner login </a></button>
+				
+				<button><a target="_blank" href="Admin_login_1.php" >Admin login </a></button>
+				<button><a target="_blank" href="login_1.php" > login  </a> </button>
 					
-					<button><a target="_blank" href="Feedback.php" > Feedback  </a> </button>
-				</tr>
+				
+				</td>
+			</tr>
+			<tr>
+				<td><button><a target="_blank" href="Feedback_4.php" >Feedback </a></button></td>
+			</tr>
 			
 		</table>
 	</form>
